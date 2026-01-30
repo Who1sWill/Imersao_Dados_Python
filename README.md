@@ -6,7 +6,9 @@ Este repositório contém o projeto final desenvolvido durante a **Imersão de D
 
 ## 🚀 Acesse o Dashboard Online
 O projeto foi transformado em uma aplicação web interativa. Você pode visualizá-lo em execução aqui:
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://imersao-dados-python-will.streamlit.app/)
+<a href="https://imersao-dados-python-will.streamlit.app/" target="_blank">
+    <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" width="250" alt="Abrir Dashboard no Streamlit">
+</a>
 
 ---
 
