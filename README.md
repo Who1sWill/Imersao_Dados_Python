@@ -1,4 +1,4 @@
-# 📊 Imersão de Dados Alura
+# 📊 Imersão de Dados Python
 
 Este repositório contém o código e as análises desenvolvidas durante a **Imersão de Dados**. O projeto foca na exploração de um dataset contendo salários da área de dados ao redor do mundo, aplicando técnicas de limpeza, manipulação e visualização de dados.
 
