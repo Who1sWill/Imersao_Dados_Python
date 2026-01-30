@@ -26,9 +26,9 @@ O projeto foi transformado em uma aplicação web interativa. Você pode visuali
 
 ## 📖 Estrutura do Aprendizado
 
-1. **Exploração e ETL:** Carga dos dados, limpeza de valores nulos (`NaN`), tradução de categorias e preparação da base para análise.
-2. **Análise Estatística:** Uso de **Seaborn** e **Matplotlib** para identificar tendências salariais e tratar *outliers* na distribuição.
-3. **Engenharia de Dashboard:** Estruturação da interface web, definição de colunas de layout e criação de métricas (KPIs) no **Streamlit**.
-4. **Visualização Avançada:** Implementação de filtros dinâmicos (`multiselect`) e gráficos interativos, como o mapa coroplético, utilizando **Plotly Express**.
+1. 🏗️ **Exploração e ETL:** Carga dos dados, limpeza de valores nulos (`NaN`), tradução de categorias e preparação da base para análise.
+2. 📉 **Análise Estatística:** Uso de **Seaborn** e **Matplotlib** para identificar tendências salariais e tratar *outliers* na distribuição.
+3. ⚙️ **Engenharia de Dashboard:** Estruturação da interface web, definição de colunas de layout e criação de métricas (KPIs) no **Streamlit**.
+4. 🗺️ **Visualização Avançada:** Implementação de filtros dinâmicos (`multiselect`) e gráficos interativos, como o mapa coroplético, utilizando **Plotly Express**.
 
 ---
